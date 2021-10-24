@@ -5,7 +5,7 @@
 - MongoDb
 - Express
 - EJS
-- JAVASCRIPT
+- Javascript
 - CSS
 - Mongoose
 
